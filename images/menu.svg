@@ -1,0 +1,12 @@
+<svg id="menu.svg" xmlns="http://www.w3.org/2000/svg" width="40" height="27" viewBox="0 0 40 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="_3" data-name="3" class="cls-1" width="40" height="3"/>
+  <rect id="_3_копия" data-name="3 копия" class="cls-1" y="12" width="40" height="3"/>
+  <rect id="_3_копия_2" data-name="3 копия 2" class="cls-1" y="24" width="40" height="3"/>
+</svg>
